@@ -1,0 +1,5 @@
+The MuleSoft Integration requests data from the Twitter API.
+The MuleSoft Integration receives data from the Twitter API.
+The MuleSoft Integration sends the Twitter data to the sentiment analysis tool here we are using chatgpt service.
+The ChatGPT Service analyzes the Twitter data and sends back the analyzed output.
+The MuleSoft Integration receives the analyzed data and sends it to the CRM System.
